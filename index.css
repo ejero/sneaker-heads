@@ -26,10 +26,18 @@ Images:
     - (You may use any image you would like for the background!)
 */
 
+
+
+body{
+    color: rgb(177, 231, 162);
+    font-size: 40px;
+}
+
 #row1{
     background-color: green;
 }
 
 #row2{
-    border-color: pink;
+    background-color: pink;
+    color: rgb(141, 138, 135);
 }
