@@ -29,15 +29,8 @@ Images:
 
 
 body{
-    color: rgb(177, 231, 162);
-    font-size: 40px;
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-#row1{
-    background-color: green;
-}
-
-#row2{
-    background-color: pink;
-    color: rgb(141, 138, 135);
-}
